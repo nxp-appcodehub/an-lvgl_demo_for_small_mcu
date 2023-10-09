@@ -1,0 +1,146 @@
+/*
+ * Copyright 2022 NXP
+ * All rights reserved.
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+File0:C://LocalData//BinMerge//Images//ebike_bg.bin
+Base address:0 0
+Size:460804 0x70804
+
+
+File1:C://LocalData//BinMerge//Images//ebike_header_bg.bin
+Base address:460804 0x70804
+Size:73444 0x11ee4
+
+
+File2:C://LocalData//BinMerge//Images//ebike_gps_arrow.bin
+Base address:534248 0x826e8
+Size:4036 0xfc4
+
+
+File3:C://LocalData//BinMerge//Images//ebike_icn_distance_travelled.bin
+Base address:538284 0x836ac
+Size:886 0x376
+
+
+File4:C://LocalData//BinMerge//Images//ebike_icn_average_speed.bin
+Base address:539170 0x83a22
+Size:1177 0x499
+
+
+File5:C://LocalData//BinMerge//Images//ebike_icn_remaining_distance.bin
+Base address:540347 0x83ebb
+Size:1204 0x4b4
+
+
+File6:C://LocalData//BinMerge//Images//ebike_icn_elapsed_time.bin
+Base address:541551 0x8436f
+Size:1504 0x5e0
+
+
+File7:C://LocalData//BinMerge//Images//ebike_info_h_210X3.bin
+Base address:543055 0x8494f
+Size:1894 0x766
+
+
+File8:C://LocalData//BinMerge//Images//ebike_info_v_3X210.bin
+Base address:544949 0x850b5
+Size:1894 0x766
+
+
+File9:C://LocalData//BinMerge//Images//ebike_gauge_bg.bin
+Base address:546843 0x8581b
+Size:163570 0x27ef2
+
+
+File10:C://LocalData//BinMerge//Images//ebike_gauge_lines.bin
+Base address:710413 0xad70d
+Size:94960 0x172f0
+
+
+File11:C://LocalData//BinMerge//Images//ebike_gauge_numbers.bin
+Base address:805373 0xc49fd
+Size:66736 0x104b0
+
+
+File12:C://LocalData//BinMerge//Images//ebike_gauge_needle.bin
+Base address:872109 0xd4ead
+Size:178612 0x2b9b4
+
+
+File13:C://LocalData//BinMerge//Images//ebike_gauge_battery_line.bin
+Base address:1050721 0x100861
+Size:85324 0x14d4c
+
+
+File14:C://LocalData//BinMerge//Images//ebike_gauge_battery.bin
+Base address:1136045 0x1155ad
+Size:544 0x220
+
+
+File15:C://LocalData//BinMerge//Images//ebike_footer_bg.bin
+Base address:1136589 0x1157cd
+Size:50404 0xc4e4
+
+
+File16:C://LocalData//BinMerge//Images//ebike_footer_line_1.bin
+Base address:1186993 0x121cb1
+Size:268 0x10c
+
+
+File17:C://LocalData//BinMerge//Images//ebike_footer_line_2.bin
+Base address:1187261 0x121dbd
+Size:268 0x10c
+
+
+File18:C://LocalData//BinMerge//Images//ebike_icn_elevation_gained.bin
+Base address:1187529 0x121ec9
+Size:1192 0x4a8
+
+
+File19:C://LocalData//BinMerge//Images//ebike_icn_elevation_lost.bin
+Base address:1188721 0x122371
+Size:1138 0x472
+
+
+File20:C://LocalData//BinMerge//Images//ebike_info_v_3X60.bin
+Base address:1189859 0x1227e3
+Size:544 0x220
+
+
+File21:C://LocalData//BinMerge//Images//ebike_icn_distance_travelled_big.bin
+Base address:1190403 0x122a03
+Size:3532 0xdcc
+
+
+File22:C://LocalData//BinMerge//Images//ebike_icn_average_speed_big.bin
+Base address:1193935 0x1237cf
+Size:3724 0xe8c
+
+
+File23:C://LocalData//BinMerge//Images//ebike_info_v_3X120.bin
+Base address:1197659 0x12465b
+Size:1084 0x43c
+
+
+File24:C://LocalData//BinMerge//Images//ebike_icn_calories_burned.bin
+Base address:1198743 0x124a97
+Size:1201 0x4b1
+
+
+File25:C://LocalData//BinMerge//Images//ebike_icn_heart_rate.bin
+Base address:1199944 0x124f48
+Size:1516 0x5ec
+
+
+File26:C://LocalData//BinMerge//Images//ebike_icn_round_per_minute.bin
+Base address:1201460 0x125534
+Size:1204 0x4b4
+
+
+File27:C://LocalData//BinMerge//Images//ebike_watts.bin
+Base address:1202664 0x1259e8
+Size:40954 0x9ffa
+
+

@@ -1,0 +1,94 @@
+NXP Software Content Register
+
+Package:                   an-lvgl_demo_for_small_mcu 
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  This demo is a three-screen GUI demo based on LVGL, which can display the driving information of electric vehicles, including real-time speed, average speed, energy consumption, etc.
+Release Location:          https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu
+Origin:                    NXP (BSD-3-Clause)
+			   NXP (MIT)
+                           CMSIS - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/	
+                           CMSIS_ICCARM - IAR Systems, ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+			   freertos - Amazon (MIT) - https://aws.amazon.com/freertos/
+			   lvgl - Gabor Kiss-Vamosi (MIT) - https://github.com/lvgl/lvgl 
+			   lvgl_tlsf- Matthew Conte (BSD-3-Clause) - https://github.com/lvgl/lvgl
+
+						   
+                                        
+CMSIS                      Name: CMSIS related files                                      
+                           Version: 5.3.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: APACHE                  
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores                                        
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/CMSIS/                                   
+                           Origin: ARM (Apache-2.0)                        
+                           https://github.com/ARM-software/CMSIS_5/releases/t
+                           ag/5.6.0                       
+
+CMSIS_ICCARM               Name: cmsis_iccarm.h                                     
+                           Version: 5.3.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: APACHE                  
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores                                        
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/CMSIS/cmsis_iccarm.h
+                           Origin: IAR Systems (Apache-2.0)  ARM (Apache-2.0)                                          
+						   
+CMSIS_driver               Name: CMSIS driver files
+                           Version: 2.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: APACHE                 
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores                                        
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/CMSIS/cmsis_iccarm.h                                   
+                           Origin: ARM (Apache-2.0) -                        
+                           https://github.com/ARM-software/CMSIS_5/releases/t
+                           ag/5.6.0                                            
+                     
+                    
+freertos                   Name: FreeRTOS related files                                   
+                           Version: 10.4.3                            
+                           Outgoing License: MIT                             
+                           License File: MIT      
+                           Format: source code                               
+                           Description and comments: Open source RTOS kernel for small devices                                           
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/freertos/    
+                           Origin: Amazon (MIT) - https://aws.amazon.com/freertos/                                                      
+
+lvgl                       Name: LVGL                                        
+                           Version: 8.0.2                                   
+                           Outgoing License: MIT                             
+                           License File: MIT 
+                           Format: source code                               
+                           Description and comments: Light and Versatile Graphics Library 
+                           (LVGL)                                            
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/lvgl/                       
+                           Origin: Gabor Kiss-Vamosi - https://github.com/lvgl/lvgl      
+
+lvgl_tlsf                  Name: LVGL tlsf                                       
+                           Version: 8.0.2                                   
+                           Outgoing License: BSD-3-Clause                               
+                           License File: LICENSE 
+                           Format: source code                               
+                           Description and comments: Light and Versatile Graphics Library 
+                           (LVGL)                                            
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/lvgl/lvgl/src/misc/lv_tlsf.h   
+                                             https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/lvgl/src/misc/lv_tlsf.h                   
+                           Origin: Matthew Conte - https://github.com/lvgl/lvgl   
+						   
+                        
+      			   
+
+                    
