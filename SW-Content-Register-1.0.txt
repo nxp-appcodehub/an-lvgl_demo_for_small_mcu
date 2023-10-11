@@ -18,7 +18,7 @@ Origin:                    NXP (BSD-3-Clause)
 						   
                                         
 CMSIS                      Name: CMSIS related files                                      
-                           Version: 5.3.0                                    
+                           Version: 5.x.x                                    
                            Outgoing License: Apache License 2.0              
                            License File: APACHE                  
                            Format: source code                               
@@ -32,7 +32,7 @@ CMSIS                      Name: CMSIS related files
                            ag/5.6.0                       
 
 CMSIS_ICCARM               Name: cmsis_iccarm.h                                     
-                           Version: 5.3.0                                    
+                           Version: 5.1.0                                    
                            Outgoing License: Apache License 2.0              
                            License File: APACHE                  
                            Format: source code                               
@@ -44,7 +44,7 @@ CMSIS_ICCARM               Name: cmsis_iccarm.h
                            Origin: IAR Systems (Apache-2.0)  ARM (Apache-2.0)                                          
 						   
 CMSIS_driver               Name: CMSIS driver files
-                           Version: 2.0                                    
+                           Version: 2.x                                    
                            Outgoing License: Apache License 2.0              
                            License File: APACHE                 
                            Format: source code                               
@@ -52,7 +52,7 @@ CMSIS_driver               Name: CMSIS driver files
                            abstraction layer for microcontrollers that are   
                            based on Arm Cortex processors, distributed by    
                            ARM. cores                                        
-                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/CMSIS/cmsis_iccarm.h                                   
+                           Release location: https://github.com/nxp-appcodehub/an-lvgl_demo_for_small_mcu/tree/main/CMSIS_driver                                   
                            Origin: ARM (Apache-2.0) -                        
                            https://github.com/ARM-software/CMSIS_5/releases/t
                            ag/5.6.0                                            
